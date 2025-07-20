@@ -1,10 +1,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science student
-- 💻 Passionate about web development & data science
 - 🚀 Enjoy building real-world projects and learning new technologies
 - 🛠️ Skilled in Python, JavaScript, HTML, CSS, SQL
-- 📊 Interested in machine learning and data analytics
+- 📊 Interested in machine learning , data analytics , Web development
 - 🌱 Always exploring and improving my coding skills
 
 
