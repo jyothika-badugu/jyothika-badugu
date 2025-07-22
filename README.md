@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student
 - 🚀 Enjoy building real-world projects and learning new technologies
-- 🛠️ Skilled in Python, JavaScript, HTML, CSS, SQL
+- 🛠️ Skilled in Python, JavaScript, HTML, CSS, MySQL
 - 📊 Interested in machine learning , data analytics , Web development
 - 🌱 Always exploring and improving my coding skills
 
