@@ -1,4 +1,4 @@
-## 👩‍💻 About Me
+## 👩‍💻 About ME
 
 - 🎓 Computer Science student
 - 🚀 Enjoy building real-world projects and learning new technologies
